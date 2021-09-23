@@ -13,7 +13,7 @@
 - 📖 I am doing MSc Statistics + working in Analytics & Modelling at Deloitte
 - 🌱 I’m currently studying Deep Learning and Machine Learning for advanced applications in Finance 
 - 💬 Ask me about **Python** **R**
-- 📫 My E-mail address: joonkang09@gmail.com
+- 📫 My E-mail address: denim.bluu@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
