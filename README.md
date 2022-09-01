@@ -10,8 +10,7 @@
 
 
 
-- 📖  I am pursuing MSc Statistics at LSE + working in Monzo as a Capital & Forecasting Analyst
-- 🌱  I’m currently studying Deep Learning and Machine Learning applications in Finance 
+- 📖  I am working as a data analyst at Monzo
 - 💬  Ask me about **Python** **R**
 - 📫  My personal E-mail address: denim.bluu@gmail.com
 
