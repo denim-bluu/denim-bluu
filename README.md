@@ -4,13 +4,10 @@
   
 </p>
 
-# 안녕 My name is Joon.
+# About Me
+안녕! Hello there! My name is Joon.
 
-
-
-
-
-- 📖  I am working as a data analyst at Monzo
-- 📫  My personal E-mail address: denim.bluu@gmail.com
-
+- 📖  I am working as an analytics engineer at Monzo
+- 💻 I love working with Python & Rust + Statistics and Data in general
 ----
+
