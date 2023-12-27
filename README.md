@@ -8,6 +8,6 @@
 안녕! Hello there! My name is Joon.
 
 - 📖  I am working as an analytics engineer at Monzo
-- 💻 I love working with Python & Rust + Statistics and Data in general
+- 💻 I love working with Python & Go (Rust is WIP...) + Statistics and Data in general
 ----
 
