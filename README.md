@@ -7,7 +7,7 @@
 # About Me
 안녕! Hello there! My name is Joon.
 
-- 📖  I am working as an analytics engineer at Monzo
+- 📖  I am working as a data engineer / scientist @ ADIC
 - 💻 I love working with Python & Go (Rust is WIP...) + Statistics and Data in general
 ----
 
