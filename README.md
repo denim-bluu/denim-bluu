@@ -7,7 +7,7 @@
 # About Me
 안녕! Hello there! My name is Joon.
 
-- 📖  I am working as a data engineer / scientist @ ADIC
-- 💻 I love working with Python & Go (Rust is WIP...) + Statistics and Data in general
+- 👔 I am a Data Scientist/Engineer @ the Abu Dhabi Investment Council
+- 🔬 My main area of work is applying quantitative techniques to choose and monitor investment funds/managers, and to manage the risks involved
 ----
 
